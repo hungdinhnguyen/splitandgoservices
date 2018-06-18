@@ -1,0 +1,10 @@
+com/splitandgo/domain/Credential.class
+com/splitandgo/domain/Payment.class
+com/splitandgo/domain/Fund.class
+com/splitandgo/validation/NullMinNumber.class
+com/splitandgo/domain/Notification.class
+com/splitandgo/domain/Trip.class
+com/splitandgo/validation/EmptyOrSize.class
+com/splitandgo/domain/Gender.class
+com/splitandgo/domain/Authority.class
+com/splitandgo/domain/Member.class

@@ -3,7 +3,7 @@ package com.splitandgo.db.dao.impl;
 import org.springframework.stereotype.Repository;
 
 import com.splitandgo.db.dao.NotificationDao;
-import com.splitandgo.db.domain.Notification;
+import com.splitandgo.domain.Notification;
 
 
 @Repository

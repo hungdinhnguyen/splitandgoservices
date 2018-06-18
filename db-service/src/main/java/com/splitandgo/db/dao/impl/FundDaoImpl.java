@@ -3,7 +3,7 @@ package com.splitandgo.db.dao.impl;
 import org.springframework.stereotype.Repository;
 
 import com.splitandgo.db.dao.FundDao;
-import com.splitandgo.db.domain.Fund;
+import com.splitandgo.domain.Fund;
 
 
 

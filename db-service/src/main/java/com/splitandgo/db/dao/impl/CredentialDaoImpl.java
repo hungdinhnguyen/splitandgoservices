@@ -5,7 +5,7 @@ import javax.persistence.Query;
 import org.springframework.stereotype.Repository;
 
 import com.splitandgo.db.dao.CredentialDao;
-import com.splitandgo.db.domain.Credential;
+import com.splitandgo.domain.Credential;
 
 @Repository
 public class CredentialDaoImpl extends GenericDaoImpl<Credential> implements CredentialDao {

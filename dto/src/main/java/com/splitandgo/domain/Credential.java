@@ -1,4 +1,4 @@
-package com.splitandgo.db.domain;
+package com.splitandgo.domain;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,8 @@ import javax.persistence.Transient;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
-import com.splitandgo.db.validation.EmptyOrSize;
+import com.splitandgo.validation.EmptyOrSize;
+
 
 
 @Entity

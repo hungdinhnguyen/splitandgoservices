@@ -1,6 +1,6 @@
 package com.splitandgo.db.dao;
 
-import com.splitandgo.db.domain.Credential;
+import com.splitandgo.domain.Credential;
 
 public interface CredentialDao extends GenericDao<Credential> {
   

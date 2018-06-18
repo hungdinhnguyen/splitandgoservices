@@ -1,4 +1,4 @@
-package com.splitandgo.db.domain;
+package com.splitandgo.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -6,7 +6,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToOne;
 
-import com.splitandgo.db.validation.NullMinNumber;
+import com.splitandgo.validation.NullMinNumber;
+
 
 
 @Entity

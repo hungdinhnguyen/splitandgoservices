@@ -3,7 +3,7 @@ package com.splitandgo.db.dao.impl;
 import org.springframework.stereotype.Repository;
 
 import com.splitandgo.db.dao.TripDao;
-import com.splitandgo.db.domain.Trip;
+import com.splitandgo.domain.Trip;
 
 
 @Repository

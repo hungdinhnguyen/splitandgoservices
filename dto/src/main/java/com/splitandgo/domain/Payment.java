@@ -1,4 +1,4 @@
-package com.splitandgo.db.domain;
+package com.splitandgo.domain;
 
 import java.util.Date;
 
@@ -15,7 +15,8 @@ import javax.validation.constraints.NotNull;
 
 import org.springframework.format.annotation.DateTimeFormat;
 
-import com.splitandgo.db.validation.EmptyOrSize;
+import com.splitandgo.validation.EmptyOrSize;
+
 
 
 @Entity

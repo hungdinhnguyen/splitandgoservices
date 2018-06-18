@@ -9,7 +9,7 @@ import javax.persistence.Query;
 import org.springframework.stereotype.Repository;
 
 import com.splitandgo.db.dao.PaymentDao;
-import com.splitandgo.db.domain.Payment;
+import com.splitandgo.domain.Payment;
 
 
 @SuppressWarnings("unchecked")

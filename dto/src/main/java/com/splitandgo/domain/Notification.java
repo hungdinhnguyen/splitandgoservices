@@ -1,4 +1,4 @@
-package com.splitandgo.db.domain;
+package com.splitandgo.domain;
 
 
 
